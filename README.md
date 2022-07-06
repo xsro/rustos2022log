@@ -1,2 +1,11 @@
-# DailySchedule-
-DailySchedule 参加Open-Source OS Training Comp 2022的日常学习记录
+# RustOS2022LOG
+
+参加Open-Source OS Training Comp 2022（2022年开源操作系统训练营）的日常学习记录
+
+## 第一阶段
+
+### 2022/7/6
+
+了解到训练营的信息之后忙于本科毕业之后的许多琐碎事物，没有迅速进入状态。
+昨天参加线上开营仪式之后，我们学习到了很多知识，了解了rust和操作系统的基本知识。
+今天完成了基本的开发环境搭建，使用双系统中的ubuntu进行开发工作。
